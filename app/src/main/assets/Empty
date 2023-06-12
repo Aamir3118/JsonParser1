@@ -1,0 +1,12 @@
+{
+  "Student":[
+    {
+      "name":"Aamir",
+      "number":"123"
+    },
+    {
+      "name":"abc",
+      "number":"456"
+    }
+  ]
+}

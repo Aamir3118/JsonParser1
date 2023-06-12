@@ -1,0 +1,16 @@
+{
+  "Student":[
+    {
+      "name":"Aamir",
+      "number":"123"
+    },
+    {
+      "name":"abc",
+      "number":"456"
+    },
+    {
+      "name":"xyz",
+      "number":"789"
+    }
+  ]
+}
